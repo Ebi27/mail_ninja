@@ -1,3 +1,19 @@
-# Ignore credentials.json
+# Ignore sensitive files
 client_secret.json
+token.json
+
+#Ignore Virtual Environment
 venv/
+
+#Ignore python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# PyCharm-specific files
+.idea/
+*.iml
+
+# Other unnecessary files
+.DS_Store
