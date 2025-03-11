@@ -1,4 +1,4 @@
-# mail_ninja 🚀  
+# mail_ninja 🎌  
 **Automate Your Email Management with Python**
 
 I was tired of having 5000 unread emails with a bulk of them being promotional emails and decided to do something about it.
