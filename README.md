@@ -38,3 +38,13 @@ With **InboxNinja**, you can:
    ```bash
    git clone https://github.com/Ebi27/mail_ninja.git
    cd mail_ninja
+   
+### Setting Up
+a. `credentials.json`
+1. Enable the Gmail API in the [Google Cloud Console](https://console.cloud.google.com/).
+2. Download the `credentials.json` file and place it in the project folder.
+3. Do **not** commit this file to GitHub—it contains sensitive information.
+
+b. Install the libraries in the requirements file by running; 
+
+`pip install -r requirements.txt`
