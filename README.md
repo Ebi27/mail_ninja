@@ -29,7 +29,7 @@ With **InboxNinja**, you can:
 ## Getting Started
 
 ### Prerequisites
-- Python 3.x installed.
+- Python 3.9 installed.
 - A Gmail account.
 - Gmail API enabled in the [Google Cloud Console](https://console.cloud.google.com/).
 
